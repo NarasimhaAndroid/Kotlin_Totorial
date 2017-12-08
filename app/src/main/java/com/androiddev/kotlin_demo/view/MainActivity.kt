@@ -1,7 +1,8 @@
-package com.androiddev.kotlin_demo
+package com.androiddev.kotlin_demo.view
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.androiddev.kotlin_demo.R
 
 class MainActivity : AppCompatActivity() {
 
